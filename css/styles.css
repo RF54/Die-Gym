@@ -1,0 +1,49 @@
+.contact{
+  color: White;
+  margin: 0 2px;
+}
+#title{
+  background-color: #F6D860;
+    border-width: thin;
+}
+.navi{
+  background-color: #EA5C2B;
+  border-style: none none solid;
+}
+.foto{
+  width: 300px;
+}
+.line{
+  background-color: black;
+  width: 100%;
+  height: 1px;
+
+}
+.ikon{
+  width: 100px;
+  padding: 8% 0;
+}
+#deel{
+  background-color: #FF9F45;
+}
+.ik{
+  margin: 10px 30px;
+  text-decoration: none;
+  color: black;
+}
+.breek{
+border-style: solid;
+border-width: thin;
+border-color: #EADCA6;
+}
+.sosiaal{
+  width: 50px;
+}
+#einde{
+  text-align: center;
+  background-color:  #EA5C2B;
+}
+.copy{
+  margin: 0;
+  padding: 20px 0 0;
+}
